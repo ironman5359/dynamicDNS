@@ -1,0 +1,4 @@
+boto3==1.34.95
+botocore==1.34.95
+GoDaddyPy==2.5.1
+Requests==2.31.0
